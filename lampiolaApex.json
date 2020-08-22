@@ -1,0 +1,203 @@
+{
+    "global": {
+        "name": "Lampiola",
+        "uid": 1000084922433,
+        "platform": "PC",
+        "level": 220,
+        "toNextLevelPercent": 27,
+        "internalUpdateCount": 5732,
+        "bans": {
+            "isActive": false,
+            "remainingSeconds": 0,
+            "last_banReason": "NONE"
+        },
+        "rank": {
+            "rankScore": 324,
+            "rankName": "Bronze",
+            "rankDiv": 3,
+            "ladderPos": -1,
+            "rankImg": "https:\/\/api.mozambiquehe.re\/assets\/ranks\/bronze3.png",
+            "rankedSeason": "period04_split_1"
+        },
+        "battlepass": {
+            "level": "-1",
+            "history": {
+                "season1": -1,
+                "season2": -1,
+                "season3": -1,
+                "season4": -1,
+                "season5": -1
+            }
+        }
+    },
+    "realtime": {
+        "lobbyState": "open",
+        "isOnline": 0,
+        "isInGame": 0,
+        "canJoin": 0,
+        "partyFull": 0,
+        "selectedLegend": "Crypto"
+    },
+    "legends": {
+        "selected": {
+            "LegendName": "Crypto",
+            "data": [
+                {
+                    "name": "Kills",
+                    "value": 29,
+                    "key": "kills"
+                },
+                {
+                    "name": null,
+                    "value": 106,
+                    "key": "passive_enemies_scanned"
+                }
+            ],
+            "ImgAssets": {
+                "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/crypto.png",
+                "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/crypto.jpg"
+            }
+        },
+        "all": {
+            "Bangalore": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/bangalore.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/bangalore.jpg"
+                }
+            },
+            "Bloodhound": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/bloodhound.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/bloodhound.jpg"
+                }
+            },
+            "Lifeline": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/lifeline.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/lifeline.jpg"
+                }
+            },
+            "Caustic": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/caustic.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/caustic.jpg"
+                }
+            },
+            "Gibraltar": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/gibraltar.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/gibraltar.jpg"
+                }
+            },
+            "Mirage": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/mirage.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/mirage.jpg"
+                }
+            },
+            "Pathfinder": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/pathfinder.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/pathfinder.jpg"
+                }
+            },
+            "Wraith": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/wraith.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/wraith.jpg"
+                }
+            },
+            "Octane": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 137,
+                        "key": "kills"
+                    },
+                    {
+                        "name": "Damage",
+                        "value": 45641,
+                        "key": "damage"
+                    },
+                    {
+                        "name": "Season 5 Wins",
+                        "value": 5,
+                        "key": "wins_season_5"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/octane.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/octane.jpg"
+                }
+            },
+            "Wattson": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/wattson.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/wattson.jpg"
+                }
+            },
+            "Crypto": {
+                "data": [
+                    {
+                        "name": "Kills",
+                        "value": 29,
+                        "key": "kills"
+                    },
+                    {
+                        "name": null,
+                        "value": 106,
+                        "key": "passive_enemies_scanned"
+                    }
+                ],
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/crypto.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/crypto.jpg"
+                }
+            },
+            "Revenant": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/revenant.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/revenant.jpg"
+                }
+            },
+            "Loba": {
+                "ImgAssets": {
+                    "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/loba.png",
+                    "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/loba.jpg"
+                }
+            }
+        }
+    },
+    "mozambiquehere_internal": {
+        "isNewToDB": false,
+        "claimedBy": "-1",
+        "APIAccessType": "BASIC",
+        "ClusterID": "6",
+        "rate_limit": {
+            "max_per_second": 3,
+            "current_req": "1"
+        }
+    },
+    "total": {
+        "kills": {
+            "name": "Kills",
+            "value": 166
+        },
+        "damage": {
+            "name": "Damage",
+            "value": 45641
+        },
+        "wins_season_5": {
+            "name": "Season 5 Wins",
+            "value": 5
+        },
+        "passive_enemies_scanned": {
+            "name": null,
+            "value": 106
+        },
+        "kd": {
+            "value": -1,
+            "name": "KD"
+        }
+    }
+}
